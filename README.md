@@ -15,7 +15,7 @@ This pipeline performs the following tasks:
 Download the RNA-seq pipeline.
 
 ```bash
-git clone .git
+git clone https://github.com/hr1912/RNA-seq.git
 ```
 
 Make sure all [dependencies](#dependencies) are installed and the right paths are set.
